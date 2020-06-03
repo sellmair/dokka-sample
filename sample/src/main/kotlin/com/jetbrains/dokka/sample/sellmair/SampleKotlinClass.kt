@@ -1,6 +1,4 @@
-package com.jetbrains.dokka.sample.selllmair
-
-import com.jetbrains.dokka.sample.sellmair.SampleJavaClass
+package com.jetbrains.dokka.sample.sellmair
 
 /**
  * This is a sample Kotlin class
