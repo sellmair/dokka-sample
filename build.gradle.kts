@@ -18,5 +18,11 @@ allprojects {
         maven("https://dl.bintray.com/kotlin/kotlin-eap")
         maven("https://dl.bintray.com/kotlin/kotlin-dev")
         mavenLocal()
+        jcenter()
     }
+}
+
+
+tasks.create<Delete>("clean") {
+    setDelete(buildDir)
 }

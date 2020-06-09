@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sample-multiplatform-jvm">
+    <output-path>$PROJECT_DIR$/sample-multiplatform/build/libs</output-path>
+    <root id="archive" name="sample-multiplatform-jvm.jar">
+      <element id="module-output" name="dokka-sample.sample-multiplatform.jvmMain" />
+    </root>
+  </artifact>
+</component>
